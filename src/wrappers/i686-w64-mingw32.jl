@@ -2,8 +2,6 @@
 export libbzip2
 
 ## Global variables
-const PATH_list = String[]
-const LIBPATH_list = String[]
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "PATH"
@@ -30,7 +28,6 @@ function __init__()
 
     # Initialize PATH and LIBPATH environment variable listings
     global PATH_list, LIBPATH_list
-
     global libbzip2_path = abspath(joinpath(artifact"Bzip2", libbzip2_splitpath...))
 
     # Manually `dlopen()` this right now so that future invocations

@@ -1,113 +1,113 @@
 [[Bzip2]]
 arch = "x86_64"
-git-tree-sha1 = "9d115292cf3ad4b59ac36c6c6a37d7bb37ac32fc"
-libc = "glibc"
-os = "linux"
-
-    [[Bzip2.download]]
-    sha256 = "95edeac85c9213feb968c6dcdf385d733cea1affc80798f1b7d22404005dd44a"
-    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+0/Bzip2.v1.0.6.x86_64-linux-gnu.tar.gz"
-[[Bzip2]]
-arch = "x86_64"
-git-tree-sha1 = "596537e838b26f69961932965d8c978a1054a39f"
+git-tree-sha1 = "477c950893308808121f8c8105be6182227f37e6"
 os = "macos"
 
     [[Bzip2.download]]
-    sha256 = "9da50e301ea0050fd35c30b312ae68a40a3b7832c3f333e5c779807f82c8443e"
-    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+0/Bzip2.v1.0.6.x86_64-apple-darwin14.tar.gz"
+    sha256 = "c1eae6379ed54002113e63d375d9ce7b7a3f3f7c0a0c209b17793c861e8b586f"
+    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+1/Bzip2.v1.0.6.x86_64-apple-darwin14.tar.gz"
 [[Bzip2]]
 arch = "i686"
-git-tree-sha1 = "a64716da50c3dfd4641afdc74580cacd95d66b75"
-os = "windows"
-
-    [[Bzip2.download]]
-    sha256 = "fe658dc3ece6e7842a2f0ad6f3d917c3ef7a4a42d6d8b54badf06617256d38be"
-    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+0/Bzip2.v1.0.6.i686-w64-mingw32.tar.gz"
-[[Bzip2]]
-arch = "aarch64"
-git-tree-sha1 = "06ce5f90efbb01c231e402024ee0669045e4b9c2"
+git-tree-sha1 = "f5de836a96e5b90d8763fa0610d80d1d8870bbeb"
 libc = "glibc"
 os = "linux"
 
     [[Bzip2.download]]
-    sha256 = "6a8ff8dffc4ecb88b8391629fd365c309d550be7f700984704180e0a79a7a6f7"
-    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+0/Bzip2.v1.0.6.aarch64-linux-gnu.tar.gz"
-[[Bzip2]]
-arch = "i686"
-git-tree-sha1 = "15c8f348e5fbf08bef9d7dbda6614cc6144f4177"
-libc = "musl"
-os = "linux"
-
-    [[Bzip2.download]]
-    sha256 = "bea4651ab2abd89fd1f34a7fdb9ed0d2912ed661ee61d710b0105a2a6f3e4799"
-    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+0/Bzip2.v1.0.6.i686-linux-musl.tar.gz"
+    sha256 = "24d0560bb0cee02ad7aa967d3426310857f074b7802aa47258415ddfef45381f"
+    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+1/Bzip2.v1.0.6.i686-linux-gnu.tar.gz"
 [[Bzip2]]
 arch = "x86_64"
-git-tree-sha1 = "0e9cf581c213c471079d5632f061674b2de1c4b2"
-os = "windows"
-
-    [[Bzip2.download]]
-    sha256 = "8c096575b9aa1c090fbb880c4a96df7d50e25c409dfdcc6d77c853014c349800"
-    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+0/Bzip2.v1.0.6.x86_64-w64-mingw32.tar.gz"
-[[Bzip2]]
-arch = "powerpc64le"
-git-tree-sha1 = "584122c8e17a1dcf96826f0f3518024b72cbb3c3"
-libc = "glibc"
-os = "linux"
-
-    [[Bzip2.download]]
-    sha256 = "5255d531c2ad797f55da444a59b41e1afdd4d8a1beb38ff03bb19c3dfd52dc71"
-    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+0/Bzip2.v1.0.6.powerpc64le-linux-gnu.tar.gz"
-[[Bzip2]]
-arch = "x86_64"
-git-tree-sha1 = "70a88a731cf305ecd293cbd3c17edaa30f275b6f"
+git-tree-sha1 = "eae73c4a63466672a111d1179e763624a7232fd1"
 os = "freebsd"
 
     [[Bzip2.download]]
-    sha256 = "3792689e6d8b9df85364c3b5240d58e4bb075b26d0f4cbcd47ae0166e4817249"
-    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+0/Bzip2.v1.0.6.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "9f99470dfbc16f3e27493236c9b936a50f82305bb0934c4b1dc6b18d7fe1343e"
+    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+1/Bzip2.v1.0.6.x86_64-unknown-freebsd11.1.tar.gz"
 [[Bzip2]]
-arch = "armv7l"
-git-tree-sha1 = "cd7663658f3bd613ce2ff79e361cb514081eb464"
-libc = "musl"
-os = "linux"
-
-    [[Bzip2.download]]
-    sha256 = "cb801bdee5c041bed0379925262dda26659c66542c82f06d6c5a933de51f7672"
-    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+0/Bzip2.v1.0.6.arm-linux-musleabihf.tar.gz"
-[[Bzip2]]
-arch = "aarch64"
-git-tree-sha1 = "69a89d59b80c15fd004441db5150bbcf286e51fa"
-libc = "musl"
-os = "linux"
-
-    [[Bzip2.download]]
-    sha256 = "2f33eaec540b7cda1b9ab1eaf3fe91906b36d95b25ad6c6c00606b8db1e86325"
-    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+0/Bzip2.v1.0.6.aarch64-linux-musl.tar.gz"
-[[Bzip2]]
-arch = "i686"
-git-tree-sha1 = "cc0791a6b32f1d10afd73c1e561c32e2a3043203"
+arch = "powerpc64le"
+git-tree-sha1 = "573cb3f63c7e0d47418ab4e7e10cb1aa1dd03c06"
 libc = "glibc"
 os = "linux"
 
     [[Bzip2.download]]
-    sha256 = "4e5ed6cc9a96a6d58b69f0670b788e834ad0c7533565f59fdda762e62dfa1db7"
-    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+0/Bzip2.v1.0.6.i686-linux-gnu.tar.gz"
+    sha256 = "327dc9d9e43267aed4b06ebc63e140df55e81347b89f808138da48315b2ec4c2"
+    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+1/Bzip2.v1.0.6.powerpc64le-linux-gnu.tar.gz"
 [[Bzip2]]
 arch = "x86_64"
-git-tree-sha1 = "a594eaeccee332a74aed0085cf61dbf23d5a147a"
+git-tree-sha1 = "b425530b62a99d2c35cab6195ae0ba6d20acfc0d"
 libc = "musl"
 os = "linux"
 
     [[Bzip2.download]]
-    sha256 = "441bfb219f71756fdd9bbff2cabafc5b99d8efa4244ed26baeff064babd5199e"
-    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+0/Bzip2.v1.0.6.x86_64-linux-musl.tar.gz"
+    sha256 = "fea5a0477fcb5baef9761828eebe0ad4ce70d0f3322c86b8894e7b741bb1b1e6"
+    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+1/Bzip2.v1.0.6.x86_64-linux-musl.tar.gz"
 [[Bzip2]]
-arch = "armv7l"
-git-tree-sha1 = "6595fd6a17eb4dd9682de5b13911b30d5b9862d1"
+arch = "x86_64"
+git-tree-sha1 = "8782db281256c01b97189868a527a62fd5e231e5"
 libc = "glibc"
 os = "linux"
 
     [[Bzip2.download]]
-    sha256 = "1094f9d6ea29680bad062df2a1c72a69e96cd25a656cd2bd701b414746cd68d7"
-    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+0/Bzip2.v1.0.6.arm-linux-gnueabihf.tar.gz"
+    sha256 = "542ac01f87f2bf247c4d3f77f6f717760faf942fb4018f47f8b87cd849ca1342"
+    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+1/Bzip2.v1.0.6.x86_64-linux-gnu.tar.gz"
+[[Bzip2]]
+arch = "x86_64"
+git-tree-sha1 = "b47ac468e9e8c29a0457399cf1ca6a96b61222a0"
+os = "windows"
+
+    [[Bzip2.download]]
+    sha256 = "d8332b44a02bf54939a0437b22636086354e60590768a4050534f903a23ba73c"
+    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+1/Bzip2.v1.0.6.x86_64-w64-mingw32.tar.gz"
+[[Bzip2]]
+arch = "aarch64"
+git-tree-sha1 = "79d2591a6e65bdae73e9deb11d8cf622e499206c"
+libc = "musl"
+os = "linux"
+
+    [[Bzip2.download]]
+    sha256 = "f0e57be14bc34266e4211244a7b62d3ea19bd0dac5e1df02716f9f613e9f4ac0"
+    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+1/Bzip2.v1.0.6.aarch64-linux-musl.tar.gz"
+[[Bzip2]]
+arch = "armv7l"
+git-tree-sha1 = "d027d9ebc0674224cfa2dddd28c40b0ae7e3f1f5"
+libc = "glibc"
+os = "linux"
+
+    [[Bzip2.download]]
+    sha256 = "2246caf56f6903514e5e3df293fcc06196c1ac9b898a62b04149b741c5578862"
+    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+1/Bzip2.v1.0.6.arm-linux-gnueabihf.tar.gz"
+[[Bzip2]]
+arch = "i686"
+git-tree-sha1 = "68cf3ef04347c04c2ce3a8db1e2cf4bc1f8f985b"
+libc = "musl"
+os = "linux"
+
+    [[Bzip2.download]]
+    sha256 = "4a21bed1edb690cd1a08513f34418f316f8b1bbe98c443d8561209079b558edb"
+    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+1/Bzip2.v1.0.6.i686-linux-musl.tar.gz"
+[[Bzip2]]
+arch = "armv7l"
+git-tree-sha1 = "8aa2550b02cede2b3e60d48a97b5a16dfb4e1e18"
+libc = "musl"
+os = "linux"
+
+    [[Bzip2.download]]
+    sha256 = "67912bf11051e37b1cfcef655d3969fe7ac91458d213990e323723dc4ec1f7af"
+    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+1/Bzip2.v1.0.6.arm-linux-musleabihf.tar.gz"
+[[Bzip2]]
+arch = "aarch64"
+git-tree-sha1 = "0e0c14a2347f0ad2e3d15b4aff3cc0d3796a7892"
+libc = "glibc"
+os = "linux"
+
+    [[Bzip2.download]]
+    sha256 = "f729536341dfeffb0ab2d3c87b21be852d6bdeff1e53cd3fc96a792aee57f918"
+    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+1/Bzip2.v1.0.6.aarch64-linux-gnu.tar.gz"
+[[Bzip2]]
+arch = "i686"
+git-tree-sha1 = "28171e1f6c9209774557329fccab6d80f4911d6f"
+os = "windows"
+
+    [[Bzip2.download]]
+    sha256 = "7b9d067c5ad2103c8c77cda6b0191f52217ac4e185d411b21be9a9531ef3d6ef"
+    url = "https://github.com/JuliaBinaryWrappers/Bzip2_jll.jl/releases/download/Bzip2-v1.0.6+1/Bzip2.v1.0.6.i686-w64-mingw32.tar.gz"
